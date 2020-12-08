@@ -8,7 +8,7 @@ def checkNum(var):
 
 
 def checkSpecial(var):
-    if '-' in var[3]:
+    if placa[3] == "caracter '-'":
         return True
     else:
         return False
@@ -24,7 +24,7 @@ def checkAlpha(var):
 
 for i in range(int(input())):
     placa = input()
-    if not checkAlpha(placa) and not checkNum(placa) and not checkSpecial(placa) or not placa.isupper() or len(placa) !=8:
+    if not checkAlpha(placa) and not checkNum(placa) and not checkSpecial(placa) and not placa.isupper() and len(placa) !=7:
         print("FAILURE")
     else:
         if placa[7] == '1' or placa[7] == '2':
@@ -41,3 +41,4 @@ for i in range(int(input())):
 
         elif placa[7] == '9' or placa[7] == '0':
             print('FRIDAY')
+
