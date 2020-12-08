@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165486ec-3d88-4f53-9d18-0d5644073070" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="JupyterTrust" id="6f58a6bb-ee08-4d58-af80-be2f2b75ddde" />
+  <component name="ProjectId" id="1jGHI9mhILqjUfqyTowzJlaeYhk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunManager" selected="Python.uri 2416 - Corrida">
+    <configuration name="2712 - Rodizio veicular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2712 - Rodizio veicular.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2813 - Avoiding Rain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2813 - Avoiding Rain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aquecimento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aquecimento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cadastro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesafioGuanabara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesafioGuanabara/cadastro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uri 2416 - Corrida" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uri 2416 - Corrida.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.uri 2416 - Corrida" />
+        <item itemvalue="Python.2813 - Avoiding Rain" />
+        <item itemvalue="Python.2712 - Rodizio veicular" />
+        <item itemvalue="Python.cadastro" />
+        <item itemvalue="Python.aquecimento" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\vitinhogay\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165486ec-3d88-4f53-9d18-0d5644073070" name="Default Changelist" comment="" />
+      <created>1603423425953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603423425953</updated>
+      <workItem from="1603423426999" duration="43000" />
+      <workItem from="1603480568659" duration="1556000" />
+      <workItem from="1603482214286" duration="3751000" />
+      <workItem from="1604430144122" duration="5272000" />
+      <workItem from="1604437283963" duration="1212000" />
+      <workItem from="1604516238397" duration="7056000" />
+      <workItem from="1604535511931" duration="8974000" />
+      <workItem from="1604600031276" duration="21295000" />
+      <workItem from="1604692529047" duration="12000" />
+      <workItem from="1605129839528" duration="6110000" />
+      <workItem from="1605142804513" duration="139000" />
+      <workItem from="1605143284587" duration="4132000" />
+      <workItem from="1605558821279" duration="3784000" />
+      <workItem from="1605723254116" duration="15140000" />
+      <workItem from="1606165844737" duration="5959000" />
+      <workItem from="1606343398589" duration="1471000" />
+      <workItem from="1606349563868" duration="2833000" />
+      <workItem from="1606355701267" duration="2617000" />
+      <workItem from="1606765553890" duration="11223000" />
+      <workItem from="1606872334830" duration="534000" />
+      <workItem from="1606936971719" duration="3346000" />
+      <workItem from="1606950481173" duration="6622000" />
+      <workItem from="1607027426805" duration="10085000" />
+      <workItem from="1607111306990" duration="8073000" />
+      <workItem from="1607363064910" duration="2123000" />
+      <workItem from="1607367876343" duration="17200000" />
+      <workItem from="1607458289079" duration="196000" />
+      <workItem from="1607459213690" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="92" key="#Inspections" timestamp="1607395263232">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="139" y="92" key="#Inspections/0.0.2048.821@0.0.2048.821" timestamp="1607395263232" />
+    <state x="959" y="69" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603482202246">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="959" y="69" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.821@0.0.2048.821" timestamp="1603482202246" />
+    <state x="1267" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607033282207">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="1267" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.821@0.0.2048.821" timestamp="1607033282207" />
+    <state x="936" y="198" key="FileChooserDialogImpl" timestamp="1607459499792">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="936" y="198" key="FileChooserDialogImpl/0.0.2048.821@0.0.2048.821" timestamp="1607459499792" />
+    <state width="979" height="195" key="GridCell.Tab.0.bottom" timestamp="1607396317970">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="979" height="195" key="GridCell.Tab.0.bottom/0.0.2048.821@0.0.2048.821" timestamp="1607396317970" />
+    <state width="979" height="195" key="GridCell.Tab.0.center" timestamp="1607396317969">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="979" height="195" key="GridCell.Tab.0.center/0.0.2048.821@0.0.2048.821" timestamp="1607396317969" />
+    <state width="979" height="195" key="GridCell.Tab.0.left" timestamp="1607396317969">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="979" height="195" key="GridCell.Tab.0.left/0.0.2048.821@0.0.2048.821" timestamp="1607396317969" />
+    <state width="979" height="195" key="GridCell.Tab.0.right" timestamp="1607396317970">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="979" height="195" key="GridCell.Tab.0.right/0.0.2048.821@0.0.2048.821" timestamp="1607396317970" />
+    <state width="982" height="368" key="GridCell.Tab.1.bottom" timestamp="1607038356093">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="982" height="368" key="GridCell.Tab.1.bottom/0.0.2048.821@0.0.2048.821" timestamp="1607038356093" />
+    <state width="982" height="368" key="GridCell.Tab.1.center" timestamp="1607038356093">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="982" height="368" key="GridCell.Tab.1.center/0.0.2048.821@0.0.2048.821" timestamp="1607038356093" />
+    <state width="982" height="368" key="GridCell.Tab.1.left" timestamp="1607038356093">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="982" height="368" key="GridCell.Tab.1.left/0.0.2048.821@0.0.2048.821" timestamp="1607038356093" />
+    <state width="982" height="368" key="GridCell.Tab.1.right" timestamp="1607038356093">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state width="982" height="368" key="GridCell.Tab.1.right/0.0.2048.821@0.0.2048.821" timestamp="1607038356093" />
+    <state x="1045" y="56" key="SettingsEditor" timestamp="1604535565271">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="1045" y="56" key="SettingsEditor/0.0.2048.821@0.0.2048.821" timestamp="1604535565271" />
+    <state x="1089" y="143" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604609870439">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="1089" y="143" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.821@0.0.2048.821" timestamp="1604609870439" />
+    <state x="891" y="277" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1604605693678">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="891" y="277" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.2048.821@0.0.2048.821" timestamp="1604605693678" />
+    <state x="1182" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1607380703129">
+      <screen x="0" y="0" width="2048" height="821" />
+    </state>
+    <state x="1182" y="142" width="672" height="678" key="search.everywhere.popup/0.0.2048.821@0.0.2048.821" timestamp="1607380703129" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/programas$2.coverage" NAME="2 Coverage Results" MODIFIED="1604623491849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$cadastro.coverage" NAME="cadastro Coverage Results" MODIFIED="1607111561109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesafioGuanabara" />
+    <SUITE FILE_PATH="coverage/programas$Fibonnaci.coverage" NAME="Fibonnaci Coverage Results" MODIFIED="1604529270572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$aquecimento.coverage" NAME="aquecimento Coverage Results" MODIFIED="1607032444437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$5.coverage" NAME="5 Coverage Results" MODIFIED="1604623684923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$1131___Grenais.coverage" NAME="1131 - Grenais Coverage Results" MODIFIED="1603482230226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$4.coverage" NAME="4 Coverage Results" MODIFIED="1604624089560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$2747___Saida_1.coverage" NAME="2747 - Saida 1 Coverage Results" MODIFIED="1605735281075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$teste.coverage" NAME="teste Coverage Results" MODIFIED="1607027476061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/programas$1865___Mjolnir.coverage" NAME="1865 - Mjolnir Coverage Results" MODIFIED="1605728308873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$2712___Rodizio_veicular.coverage" NAME="2712 - Rodizio veicular Coverage Results" MODIFIED="1607373644129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$uri_2416___Corrida.coverage" NAME="uri 2416 - Corrida Coverage Results" MODIFIED="1607396317962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$1.coverage" NAME="1 Coverage Results" MODIFIED="1604534420193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$1151___Fibonacci_Facil.coverage" NAME="1151 - Fibonacci Facil Coverage Results" MODIFIED="1603485129767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$6.coverage" NAME="6 Coverage Results" MODIFIED="1604622555719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$3.coverage" NAME="3 Coverage Results" MODIFIED="1604623547088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog1_prova" />
+    <SUITE FILE_PATH="coverage/programas$2651_link.coverage" NAME="2651 link Coverage Results" MODIFIED="1606774766967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$2770___Tamanho_da_Placa.coverage" NAME="2770 - Tamanho da Placa Coverage Results" MODIFIED="1605729527652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programas$2813___Avoiding_Rain.coverage" NAME="2813 - Avoiding Rain Coverage Results" MODIFIED="1607396251074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
